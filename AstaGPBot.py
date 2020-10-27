@@ -14,10 +14,10 @@ logger = logging.getLogger(__name__)
 
 
 """ Costanti """
-BOT_TOKEN = "439586411:AAEDLt76-KiDgmYeqKnRD98vJUxWdjy9DjM"
+BOT_TOKEN = "1300111638:AAGYvHnA8RIT9xqzMRUqOYSvvkTh94dh2kw"
 FIORIXF1 = 289439604
 F1NEWS_MARCUSS = 163233837
-ADMIN_SUPREMI = [FIORIXF1, F1NEWS_MARCUSS]
+ADMIN_SUPREMO = [Sam Kincaid Anticringe]
 INSULTI = ['pirla', 'scem', 'cretino', 'baccalà', 'pollo', 'baggiano', 'strunz', 'pagliaccio', 'scemo pagliaccio', 'aò', 'cafone', 'burino', 'beduino', 'mona', 'lota']
 IDLE, RESET, BIP = (0, 1, 2)
 BID_DURATION = 120
