@@ -460,3 +460,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+    
+    if /start
+    bot.send_message(Ciao, sono un nuovo bot di gestione e mi chiamo Sam Bot,aggiungimi ad un tuo gruppo per gestirlo in totale sicurezza!)
